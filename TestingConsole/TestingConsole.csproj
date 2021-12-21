@@ -7,4 +7,38 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net6.0\TestingConsole.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\TestingConsole.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0\TestingConsole.deps.json" />
+    <Content Include="bin\Debug\net6.0\TestingConsole.runtimeconfig.json" />
+    <Content Include="obj\Debug\net6.0\TestingConsole.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\TestingConsole.csproj.nuget.dgspec.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net6.0\ref\TestingConsole.dll" />
+    <None Include="bin\Debug\net6.0\TestingConsole.dll" />
+    <None Include="bin\Debug\net6.0\TestingConsole.exe" />
+    <None Include="bin\Debug\net6.0\TestingConsole.pdb" />
+    <None Include="obj\Debug\net6.0\apphost.exe" />
+    <None Include="obj\Debug\net6.0\ref\TestingConsole.dll" />
+    <None Include="obj\Debug\net6.0\TestingConsole.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0\TestingConsole.assets.cache" />
+    <None Include="obj\Debug\net6.0\TestingConsole.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net6.0\TestingConsole.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net6.0\TestingConsole.dll" />
+    <None Include="obj\Debug\net6.0\TestingConsole.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0\TestingConsole.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net6.0\TestingConsole.pdb" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\TestingConsole.csproj.nuget.g.props" />
+    <None Include="obj\TestingConsole.csproj.nuget.g.targets" />
+  </ItemGroup>
+
 </Project>
